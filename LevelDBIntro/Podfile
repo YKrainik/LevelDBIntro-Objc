@@ -1,0 +1,6 @@
+platform :ios, '8.0'
+use_frameworks!
+
+target 'LevelDBIntro' do
+  pod 'leveldb-library', '~> 1.20'
+end 
